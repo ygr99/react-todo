@@ -1,6 +1,7 @@
-# Todo
-
-![](./cover.png)
+# ReactTodo
+在线访问：http://47.121.112.184:81/  
+原文章链接：[【长文】只会 Vue 不会 React ？22 点证明 React 比 Vue3 更简单 - 掘金](https://juejin.cn/post/7344536653463207973#juejin)  
+项目地址：[wangfupeng1988/react-todo: React 入门课程练习项目](https://github.com/wangfupeng1988/react-todo#repo-content-pjax-container)
 
 ## 运行
 
@@ -13,8 +14,7 @@ npm run start
 
 PS：项目用到了 [tailwindcss](https://tailwindcss.com/) 开发样式，这对 React 学习没有影响
 
-## 开发一个 React 全栈项目
+## 功能
+* 添加 Todo 默认添加时间
+* 浏览器本地存储
 
-我将使用 React Next.js Node 全栈开发 AIGC 知识库项目 [划水AI](https://huashuiai.com/) ，仿 Notion AI 和协同编辑。
-
-项目介绍看 [这里](https://juejin.cn/post/7338797433899221043) ，可以申请加入项目协同开发。
